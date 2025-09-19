@@ -1,7 +1,12 @@
 import "./App.css";
+import FetchMovies from "./components/organisms/fetchMovies";
 
 function App() {
-  return <></>;
+  return (
+    <>
+      <FetchMovies />
+    </>
+  );
 }
 
 export default App;
