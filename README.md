@@ -1,10 +1,9 @@
 ## RiverLoop Front-End Exercises
-📌 Descrizione
-
+📌 
 Questo repository raccoglie tutti gli esercizi del corso Front-End di RiverLoop.
 L’obiettivo è consolidare le competenze in HTML, CSS, JavaScript e, dove previsto, React o altri strumenti front-end.
 
-🛠 Tecnologie utilizzate
+🛠 Tecnologie utilizzate:
 
 HTML5 – struttura delle pagine
 
